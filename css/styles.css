@@ -5,13 +5,13 @@ img {
   display: block;
 }
 
+.green {
+  background-color: rgb(125, 245, 125);
+}
+
 .column {
   width: 30%;
   float: left;
-}
-
-.green {
-  font: green;
 }
 
 .sidebar {
