@@ -1,6 +1,7 @@
 body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   background-color: rgb(212, 214, 216);
+  margin: 20px;
 }
 
 h1 {
@@ -40,6 +41,7 @@ h3 {
   float: right;
   border-width: 2px;
   border: solid black;
+  background-color: rgb(238, 239, 240);
   padding: 10px;
   margin-left: 50px;
   margin-bottom: 30px;
