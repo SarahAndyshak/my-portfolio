@@ -57,10 +57,11 @@ h4 {
   font-weight: bold;
 }
 
-@media screen and (min-width 768px) {
+/*@media screen and (max-width 300px) {
   .column {
-    width: 30%;
+    width: 300px;
     float: left;
     padding: 20px;
   }
 }
+I think I'll have to ask about media queries and responsive design. I wanted my columns at the bottom of the page to be displayed on top of each other as the screen became smaller, but that doens't seem to be working.*/
