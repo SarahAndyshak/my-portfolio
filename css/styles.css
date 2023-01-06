@@ -26,6 +26,10 @@ h3 {
   display: block;
 }
 
+.intro {
+  text-align: center;
+}
+
 .column {
   width: 30%;
   float: left;
