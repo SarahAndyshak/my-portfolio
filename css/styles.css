@@ -5,6 +5,11 @@ img {
   display: block;
 }
 
+.column {
+  width: 30%;
+  float: left;
+}
+
 .sidebar {
   width: 30%;
   float: left;
