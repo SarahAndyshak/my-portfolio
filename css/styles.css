@@ -20,6 +20,10 @@ h3 {
   color: rgb(87, 116, 160);
 }
 
+h4 {
+  text-align: center;
+}
+
 .centered-image {
   margin: auto;
   height: auto;
@@ -51,9 +55,4 @@ h3 {
 
 .emphasis {
   font-weight: bold;
-}
-
-.emphasis2 {
-  font-weight: bold;
-  text-align: center;
 }
