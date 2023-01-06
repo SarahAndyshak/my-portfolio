@@ -25,6 +25,7 @@ h3 {
   height: auto;
   width: 50%;
   display: block;
+  border: solid 2px rgb(87, 116, 160);
 }
 
 .intro {
@@ -40,7 +41,7 @@ h3 {
   width: 30%;
   float: right;
   border-width: 2px;
-  border: solid black;
+  border: solid rgb(87, 116, 160);
   background-color: rgb(238, 239, 240);
   padding: 10px;
   margin-left: 50px;
@@ -54,6 +55,5 @@ h3 {
 
 .emphasis2 {
   font-weight: bold;
-  color: rgb(87, 116, 160);
   text-align: center;
 }
