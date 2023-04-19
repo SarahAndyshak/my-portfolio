@@ -21,7 +21,7 @@ This is simply a website that allows interested parties to learn about who I am,
 
 ## GitHub Access
 
-* The portfolio should be viewable at sarahandyshak.github.io/my-portfolio
+* Check out the page [online!](https://sarahandyshak.github.io/my-portfolio/)
 
 ## Known Bugs
 
