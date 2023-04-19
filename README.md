@@ -21,7 +21,7 @@ My first website! In the process of updating.
 
 ## GitHub Access
 
-* Checkout the page [online!] (https://sarahandyshak.github.io/my-portfolio/)
+* Checkout the page [online!](https://sarahandyshak.github.io/my-portfolio/)
 
 ## Known Bugs
 
