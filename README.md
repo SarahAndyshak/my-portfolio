@@ -2,7 +2,7 @@
 
 #### By _**Sarah Andyshak**_
 
-#### An overview of who I am, and what I have worked on at Epicodus
+#### An introduction.
 
 ## Technologies Used
 
@@ -12,16 +12,16 @@
 
 ## Description
 
-This is simply a website that allows interested parties to learn about who I am, my education and work history, and view sample programming work.
+My first website! In the process of updating.
 
 ## Setup/Installation Requirements
 
-* All you need is a web browser.
+* Access to a web browser.
 * Open the page and check out the links.
 
 ## GitHub Access
 
-* The portfolio should be viewable at sarahandyshak.github.io/my-portfolio
+* Checkout the page [online!] (https://sarahandyshak.github.io/my-portfolio/)
 
 ## Known Bugs
 
